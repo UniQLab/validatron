@@ -1,8 +1,13 @@
 {
   "name": "validation-service",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
-  "main": "errorsList.js",
+  "main": "index.js",
+  "author": "Alexander Dadukin & Andrey Pavlov",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha tests --reporter spec"
+  },
   "dependencies": {
     "eslint-config-airbnb": "^9.0.1",
     "eslint-plugin-react": "^5.1.1",
@@ -12,10 +17,5 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  }
 }

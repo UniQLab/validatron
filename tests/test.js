@@ -3,10 +3,10 @@ chai.should();
 const expect = chai.expect;
 
 
-const ValidatorsGenerator = require('./validatorsGenerator');
-const priorityList = require('./priorityList');
-const errorsList = require('./errorsList');
-const typeUtils = require('./typeUtils');
+const ValidatorsGenerator = require('./../lib/validatorsGenerator');
+const priorityList = require('./../lib/priorityList');
+const errorsList = require('./../lib/errorsList');
+const typeUtils = require('./../lib/typeUtils');
 
 const num = 5;
 const string = "Some string!";
