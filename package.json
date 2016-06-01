@@ -1,0 +1,21 @@
+{
+  "name": "validation-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "errorsList.js",
+  "dependencies": {
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-react": "^5.1.1",
+    "local-web-server": "^1.2.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
