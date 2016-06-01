@@ -1,6 +1,6 @@
 {
-  "name": "validation-service",
-  "version": "0.0.1",
+  "name": "validatron",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "author": "Alexander Dadukin & Andrey Pavlov",
