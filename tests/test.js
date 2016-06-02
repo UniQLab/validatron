@@ -11,7 +11,7 @@ const typeUtils = require('./../lib/typeUtils');
 const num = 5;
 const string = "Some string!";
 const someArray = ['a', 'b', 'c', 'd', 'f'];
-const someObj = {a: 130};
+const someObj = { a: 130 };
 const date = new Date();
 const someFunc = function () {};
 
