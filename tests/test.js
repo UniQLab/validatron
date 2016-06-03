@@ -4,9 +4,9 @@ const expect = chai.expect;
 
 
 const ValidatorsGenerator = require('./../lib/validatorsGenerator');
-const priorityList = require('./../lib/priorityList');
-const errorsList = require('./../lib/errorsList');
-const typeUtils = require('./../lib/typeUtils');
+const priorityList = require('./../lib/config/priorityList');
+const errorsList = require('./../lib/config/errorsConf');
+const typeUtils = require('./../lib/utils/typeUtils');
 
 const num = 5;
 const string = "Some string!";
