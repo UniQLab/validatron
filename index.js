@@ -1,1 +1,1 @@
-module.exports = require('./lib/validatorsGenerator');
+module.exports = require('./lib/core/validatorsGenerator');
