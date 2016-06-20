@@ -1,6 +1,6 @@
 {
   "name": "validatron",
-  "version": "0.8.1.beta",
+  "version": "0.8.2.beta",
   "description": "An easy value validator with Should library syntax",
   "main": "index.js",
   "author": "Alexander Dadukin & Andrey Pavlov",
